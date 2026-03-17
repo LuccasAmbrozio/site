@@ -1,1 +1,1 @@
-notfixed
+let a = 0
